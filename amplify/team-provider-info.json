@@ -1,0 +1,14 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "string-removal-test-local-20190622115319-authRole",
+            "UnauthRoleArn": "arn:aws:iam::520335913573:role/string-removal-test-local-20190622115319-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::520335913573:role/string-removal-test-local-20190622115319-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "string-removal-test-local-20190622115319-deployment",
+            "UnauthRoleName": "string-removal-test-local-20190622115319-unauthRole",
+            "StackName": "string-removal-test-local-20190622115319",
+            "StackId": "arn:aws:cloudformation:us-east-1:520335913573:stack/string-removal-test-local-20190622115319/3e5eed00-950e-11e9-b1e2-1298ca2ea00e"
+        }
+    }
+}
